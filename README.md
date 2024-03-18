@@ -5,7 +5,7 @@ Projeto Integrador do Curso de Análise e Desenvolvimento de Sistemas do SENAC.
 
 - [x] Instalação do Maven
 - [x] Instalação do Java 17 ou posterior
-- [x] Criação de um banco de dados SQL
+- [x] [Criação de um banco de dados SQL](https://github.com/caiohcmattos/coin-wallet-banco)
 - [x] Configuração do arquivo application.properties
 
 ## Configuração do arquivo application.properties
@@ -36,8 +36,8 @@ mvn spring-boot:run
 
 ## Membros do grupo
 
-- [Caio Henrique Campos de Mattos]()
+- [Caio Henrique Campos de Mattos](https://github.com/caiohcmattos)
 - [Carlos Augusto Neves dos Santos]()
-- [Lucas Gonçalves Leite]()
+- [Lucas Gonçalves Leite](https://github.com/luc4sleite)
 - [Pedro Henrique Loria Castro]()
-- [Ricardo Moreira Faustino]()
+- [Ricardo Moreira Faustino](https://github.com/ricfaus)
